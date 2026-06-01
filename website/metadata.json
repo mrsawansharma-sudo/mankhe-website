@@ -1,5 +1,0 @@
-{
-  "name": "MANKHE - The Chhattisgarh Regeneration Project",
-  "description": "A storytelling-driven interactive website for MANKHE, a climate-tech startup focused on biochar and soil regeneration.",
-  "requestFramePermissions": ["camera", "geolocation"]
-}
